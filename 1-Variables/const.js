@@ -1,8 +1,8 @@
 const j = 3;
-
+const i= 2;
 //j = 4 // can't reassign 
 
-console.log(j);
+console.log(j+i);
 
 const adding = function add() {
 	const i = 4; 
