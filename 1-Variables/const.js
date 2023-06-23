@@ -1,6 +1,7 @@
 const j = 3;
 const i= 2;
 const x = 4;
+const y = 5;
 //j = 4 // can't reassign 
 
 console.log(j+i);
